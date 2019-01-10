@@ -1,8 +1,8 @@
-/*
- * GridLayout.hpp
- *
- *  Created on: 2018年12月25日
- *      Author: peter
+/**
+ * @file GridLayout.hpp
+ * @date 2018-12-25
+ * @author 倪文卿
+ * @copyright 作者保留所有权利
  */
 
 #ifndef GRIDLAYOUT_HPP_

@@ -1,3 +1,10 @@
+/**
+ * @file main.cpp
+ * @date 2018-12-24
+ * @author 倪文卿
+ * @copyright 作者保留所有权利
+ */
+
 #include <nana/gui.hpp>
 #include <nana/gui/widgets/label.hpp>
 #include <nana/gui/widgets/button.hpp>
@@ -8,7 +15,7 @@
 
 int main()
 {
-	nana::form fm(nana::API::make_center(800, 800));
+	nana::form fm(nana::API::make_center(1000, 600));
 	boost::optional<GridLayout> grid_layout;
 	nana::button bt_add_new_process(fm, "创建新进程");
 
